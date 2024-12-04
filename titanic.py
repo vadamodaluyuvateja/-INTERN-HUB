@@ -118,7 +118,7 @@ accuracy = model1.score(X_test,y_test)
 
 accuracy
 
-!pip install streamlit
+#!pip install streamlit
 
 import streamlit as st
 
