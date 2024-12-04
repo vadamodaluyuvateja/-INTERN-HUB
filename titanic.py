@@ -15,14 +15,14 @@ df
 
 df.columns
 
-pip install pandas-profiling
+#pip install pandas-profiling
 
 import pandas as pd
-from ydata_profiling import ProfileReport
+#from ydata_profiling import ProfileReport
 
-x=ProfileReport(df)
+#x=ProfileReport(df)
 
-x
+#x
 
 df.columns
 
